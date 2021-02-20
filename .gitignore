@@ -1,0 +1,6 @@
+# Default ignored files
+*.idea/
+/target/
+Automation.iml
+# Project exclude paths
+/src/test/
